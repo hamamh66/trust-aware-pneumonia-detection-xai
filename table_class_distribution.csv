@@ -1,7 +1,0 @@
-split,label,count,class_name
-test,0,234,Normal
-test,1,390,Pneumonia
-train,0,1214,Normal
-train,1,3494,Pneumonia
-val,0,135,Normal
-val,1,389,Pneumonia
